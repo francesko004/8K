@@ -1,11 +1,10 @@
 <?php
 
-
 return [
-    'list_user' => 'Lista de Usuários',
-    'view_user' => 'Ver Usuário',
-    'edit_user' => 'Editar Usuário',
-    'change_password' => 'Mudar Senha',
+    'list_user' => 'List of Users',
+    'view_user' => 'View User',
+    'edit_user' => 'Edit User',
+    'change_password' => 'Change Password',
     'demo' => 'Demo',
     'demo' => 'Demo',
     'demo' => 'Demo',
